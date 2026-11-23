@@ -1,0 +1,795 @@
+fileFormatVersion: 2
+guid: 95d59b7e79981a044b172c44847a6a11
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1509039390372258524
+    second: Dark_mana_pixel_sheets_0
+  - first:
+      213: 3642201940735308610
+    second: Dark_mana_pixel_sheets_1
+  - first:
+      213: 4583194243018402037
+    second: Dark_mana_pixel_sheets_2
+  - first:
+      213: -4956837692863067817
+    second: Dark_mana_pixel_sheets_3
+  - first:
+      213: 4513964442483251399
+    second: Dark_mana_pixel_sheets_4
+  - first:
+      213: -6699402368906274626
+    second: Dark_mana_pixel_sheets_5
+  - first:
+      213: -6089141249793103099
+    second: Dark_mana_pixel_sheets_6
+  - first:
+      213: -1226315782516013455
+    second: Dark_mana_pixel_sheets_7
+  - first:
+      213: -654967823337562531
+    second: Dark_mana_pixel_sheets_8
+  - first:
+      213: 4800591222570640213
+    second: Dark_mana_pixel_sheets_9
+  - first:
+      213: -8533704469579737750
+    second: Dark_mana_pixel_sheets_10
+  - first:
+      213: -887169990530251782
+    second: Dark_mana_pixel_sheets_11
+  - first:
+      213: 5787917705769236597
+    second: Dark_mana_pixel_sheets_12
+  - first:
+      213: -5870019011808096277
+    second: Dark_mana_pixel_sheets_13
+  - first:
+      213: 3446333626799095796
+    second: Dark_mana_pixel_sheets_14
+  - first:
+      213: 1229867069851395420
+    second: Dark_mana_pixel_sheets_15
+  - first:
+      213: 3343662143813947286
+    second: Dark_mana_pixel_sheets_16
+  - first:
+      213: 2283024223371140440
+    second: Dark_mana_pixel_sheets_17
+  - first:
+      213: 7345084519452088787
+    second: Dark_mana_pixel_sheets_18
+  - first:
+      213: -1246404395205984047
+    second: Dark_mana_pixel_sheets_19
+  - first:
+      213: 9039815580789169293
+    second: Dark_mana_pixel_sheets_20
+  - first:
+      213: -4328047803534132155
+    second: Dark_mana_pixel_sheets_21
+  - first:
+      213: 8706367386029484184
+    second: Dark_mana_pixel_sheets_22
+  - first:
+      213: 8165007659401178753
+    second: Dark_mana_pixel_sheets_23
+  - first:
+      213: 4415419832287360775
+    second: Dark_mana_pixel_sheets_24
+  - first:
+      213: 1638496230748581721
+    second: Dark_mana_pixel_sheets_25
+  - first:
+      213: -4818193292185997690
+    second: Dark_mana_pixel_sheets_26
+  - first:
+      213: 5612218617009080726
+    second: Dark_mana_pixel_sheets_27
+  - first:
+      213: -3527840880728422827
+    second: Dark_mana_pixel_sheets_28
+  - first:
+      213: -5425621092707409690
+    second: Dark_mana_pixel_sheets_29
+  - first:
+      213: 3612944377387914149
+    second: Dark_mana_pixel_sheets_30
+  - first:
+      213: -6930001184899622330
+    second: Dark_mana_pixel_sheets_31
+  - first:
+      213: 546584583942930650
+    second: Dark_mana_pixel_sheets_32
+  - first:
+      213: -4523653785357265771
+    second: Dark_mana_pixel_sheets_33
+  - first:
+      213: -7426169886923394898
+    second: Dark_mana_pixel_sheets_34
+  - first:
+      213: 585267073287032471
+    second: Dark_mana_pixel_sheets_35
+  - first:
+      213: -1792581117403313217
+    second: Dark_mana_pixel_sheets_36
+  - first:
+      213: -5277267316609875981
+    second: Dark_mana_pixel_sheets_37
+  - first:
+      213: 3607798955115553963
+    second: Dark_mana_pixel_sheets_38
+  - first:
+      213: -533437237909579678
+    second: Dark_mana_pixel_sheets_39
+  - first:
+      213: -7615328856824984165
+    second: Dark_mana_pixel_sheets_40
+  - first:
+      213: -5622042548914711299
+    second: Dark_mana_pixel_sheets_41
+  - first:
+      213: -4296657642459573942
+    second: Dark_mana_pixel_sheets_42
+  - first:
+      213: 1012989523743019640
+    second: Dark_mana_pixel_sheets_43
+  - first:
+      213: -8123113188414807003
+    second: Dark_mana_pixel_sheets_44
+  - first:
+      213: 4666210797952780154
+    second: Dark_mana_pixel_sheets_45
+  - first:
+      213: 7912724543379445091
+    second: Dark_mana_pixel_sheets_46
+  - first:
+      213: -4332845662365996011
+    second: Dark_mana_pixel_sheets_47
+  - first:
+      213: -7335846696896106926
+    second: Dark_mana_pixel_sheets_48
+  - first:
+      213: 4776492028777764988
+    second: Dark_mana_pixel_sheets_49
+  - first:
+      213: -5353821488855741878
+    second: Dark_mana_pixel_sheets_50
+  - first:
+      213: 8123534603989032977
+    second: Dark_mana_pixel_sheets_51
+  - first:
+      213: 7083386413162102002
+    second: Dark_mana_pixel_sheets_52
+  - first:
+      213: -4304949316934435449
+    second: Dark_mana_pixel_sheets_53
+  - first:
+      213: -4308572538187370328
+    second: Dark_mana_pixel_sheets_54
+  - first:
+      213: 7484479297280695130
+    second: Dark_mana_pixel_sheets_55
+  - first:
+      213: 8688105553402373364
+    second: Dark_mana_pixel_sheets_56
+  - first:
+      213: -7870820932940600323
+    second: Dark_mana_pixel_sheets_57
+  - first:
+      213: -7448044625300898905
+    second: Dark_mana_pixel_sheets_58
+  - first:
+      213: -1378906757769637798
+    second: Dark_mana_pixel_sheets_59
+  - first:
+      213: 6139544391108468163
+    second: Dark_mana_pixel_sheets_60
+  - first:
+      213: 5441292773425983070
+    second: Dark_mana_pixel_sheets_61
+  - first:
+      213: -4685752629004792229
+    second: Dark_mana_pixel_sheets_62
+  - first:
+      213: 6452477525418554521
+    second: Dark_mana_pixel_sheets_63
+  - first:
+      213: 5362275064878986023
+    second: Dark_mana_pixel_sheets_64
+  - first:
+      213: -6904774087219052719
+    second: Dark_mana_pixel_sheets_65
+  - first:
+      213: -1705389705578216685
+    second: Dark_mana_pixel_sheets_66
+  - first:
+      213: -1286911403987047758
+    second: Dark_mana_pixel_sheets_67
+  - first:
+      213: -7487957266849386238
+    second: Dark_mana_pixel_sheets_68
+  - first:
+      213: 2660912227150651429
+    second: Dark_mana_pixel_sheets_69
+  - first:
+      213: -6608305362318211263
+    second: Dark_mana_pixel_sheets_70
+  - first:
+      213: 5048308583517275685
+    second: Dark_mana_pixel_sheets_71
+  - first:
+      213: -6847010238414209554
+    second: Dark_mana_pixel_sheets_72
+  - first:
+      213: -4293613555514267158
+    second: Dark_mana_pixel_sheets_73
+  - first:
+      213: 1873126262092142536
+    second: Dark_mana_pixel_sheets_74
+  - first:
+      213: 9205970365836312165
+    second: Dark_mana_pixel_sheets_75
+  - first:
+      213: 7774874627071059502
+    second: Dark_mana_pixel_sheets_76
+  - first:
+      213: 3771652109111205097
+    second: Dark_mana_pixel_sheets_77
+  - first:
+      213: -2699996617948960004
+    second: Dark_mana_pixel_sheets_78
+  - first:
+      213: 7141191887370645946
+    second: Dark_mana_pixel_sheets_79
+  - first:
+      213: -5407648220210376278
+    second: Dark_mana_pixel_sheets_80
+  - first:
+      213: 2636373638907838205
+    second: Dark_mana_pixel_sheets_81
+  - first:
+      213: 1086557339028310781
+    second: Dark_mana_pixel_sheets_82
+  - first:
+      213: -8326209523737070810
+    second: Dark_mana_pixel_sheets_83
+  - first:
+      213: -3786260348231929953
+    second: Dark_mana_pixel_sheets_84
+  - first:
+      213: 6489624287486991200
+    second: Dark_mana_pixel_sheets_85
+  - first:
+      213: -6994771694148480381
+    second: Dark_mana_pixel_sheets_86
+  - first:
+      213: -2538142988837663159
+    second: Dark_mana_pixel_sheets_87
+  - first:
+      213: -9199168698719260896
+    second: Dark_mana_pixel_sheets_88
+  - first:
+      213: -202569411528255898
+    second: Dark_mana_pixel_sheets_89
+  - first:
+      213: -3694018783266625701
+    second: Dark_mana_pixel_sheets_90
+  - first:
+      213: -4845448541857842751
+    second: Dark_mana_pixel_sheets_91
+  - first:
+      213: 3291522979280575538
+    second: Dark_mana_pixel_sheets_92
+  - first:
+      213: 8231473173329655291
+    second: Dark_mana_pixel_sheets_93
+  - first:
+      213: -6502452114962918958
+    second: Dark_mana_pixel_sheets_94
+  - first:
+      213: -507066675052453217
+    second: Dark_mana_pixel_sheets_95
+  - first:
+      213: 7586140296793832849
+    second: Dark_mana_pixel_sheets_96
+  - first:
+      213: 8269257558573962124
+    second: Dark_mana_pixel_sheets_97
+  - first:
+      213: 6246661066882822855
+    second: Dark_mana_pixel_sheets_98
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fac93452c10834eac1f93e97320a89
+      internalID: 1989711380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2160
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df875a11677d944b07bf14a6130c60
+      internalID: 1612812982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2160
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d27dfe00fa5845b4fe711e537023a
+      internalID: -2031917642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2160
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba9fbdb4761c94c9d28de98c441b60
+      internalID: 530695345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89714275bc91962418a63d94d6ddb45e
+      internalID: 1815249843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1440
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90a19d472fedc94eb2ed45b5a67bbab
+      internalID: -1185560494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_6
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1440
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db226a5e1fcd73b4bb57427fb83254cc
+      internalID: -1143975204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_7
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1440
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfabc7c1a8058243b02d12bd8af663a
+      internalID: -1097030332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2a5c7e48bed0419b3e91ccadd4a23
+      internalID: 1840299697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_9
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 720
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d536c5951cf2c5a44960e28524ca8bab
+      internalID: 838694110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 720
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ddbaa94fc3048408278e10c0eb46c0
+      internalID: 822402639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_11
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 720
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ace9c3780265746afe37ff8cf7ccc4
+      internalID: -740773517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064b9296f0f6a9c4ea907e259c864be0
+      internalID: -620515104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d5efbe11eb0143ae9059e22ca0e12
+      internalID: -1349555366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_14
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75735b5b806baa43b15da8c43ee7423
+      internalID: -1049799777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_mana_pixel_sheets_15
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 680
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71094af33ca58b54aab0afaf90e777cd
+      internalID: 1458014579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 239524e2e1afcd349af83d811974328f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark_mana_pixel_sheets_0: 1989711380
+      Dark_mana_pixel_sheets_1: 1612812982
+      Dark_mana_pixel_sheets_10: 822402639
+      Dark_mana_pixel_sheets_11: -740773517
+      Dark_mana_pixel_sheets_12: -620515104
+      Dark_mana_pixel_sheets_13: -1349555366
+      Dark_mana_pixel_sheets_14: -1049799777
+      Dark_mana_pixel_sheets_15: 1458014579
+      Dark_mana_pixel_sheets_2: -2031917642
+      Dark_mana_pixel_sheets_3: 530695345
+      Dark_mana_pixel_sheets_4: 1815249843
+      Dark_mana_pixel_sheets_5: -1185560494
+      Dark_mana_pixel_sheets_6: -1143975204
+      Dark_mana_pixel_sheets_7: -1097030332
+      Dark_mana_pixel_sheets_8: 1840299697
+      Dark_mana_pixel_sheets_9: 838694110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

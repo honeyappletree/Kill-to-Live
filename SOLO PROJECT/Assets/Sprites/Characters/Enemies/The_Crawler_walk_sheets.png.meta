@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 8debfbe5aaf12394d8e6f5c2a2a10eaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7050001097609926614
+    second: The_Crawler_walk_sheets_0
+  - first:
+      213: -8982118163694338950
+    second: The_Crawler_walk_sheets_1
+  - first:
+      213: -7062700096570627411
+    second: The_Crawler_walk_sheets_2
+  - first:
+      213: 1199658480196510057
+    second: The_Crawler_walk_sheets_3
+  - first:
+      213: -4260871731986923589
+    second: The_Crawler_walk_sheets_4
+  - first:
+      213: -578060341854981739
+    second: The_Crawler_walk_sheets_5
+  - first:
+      213: 4688745675306219717
+    second: The_Crawler_walk_sheets_6
+  - first:
+      213: 1297844117874255030
+    second: The_Crawler_walk_sheets_7
+  - first:
+      213: -2473506759563582647
+    second: The_Crawler_walk_sheets_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 137
+        width: 440
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28a8deaa5d592e90800000000000000
+      internalID: -7050001097609926614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_1
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 137
+        width: 476
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c3a629e1b195380800000000000000
+      internalID: -8982118163694338950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_2
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 137
+        width: 473
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa6ac49eaf3cfd90800000000000000
+      internalID: -7062700096570627411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_3
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 137
+        width: 501
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e5eb180b06a010800000000000000
+      internalID: 1199658480196510057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_4
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 137
+        width: 476
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf7a6d1cb75ed4c0800000000000000
+      internalID: -4260871731986923589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_5
+      rect:
+        serializedVersion: 2
+        x: 6861
+        y: 157
+        width: 456
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5913ef88e215af7f0800000000000000
+      internalID: -578060341854981739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_6
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 158
+        width: 442
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8b6c28955c11140800000000000000
+      internalID: 4688745675306219717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_7
+      rect:
+        serializedVersion: 2
+        x: 9442
+        y: 146
+        width: 418
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4a9b3595ed20210800000000000000
+      internalID: 1297844117874255030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Crawler_walk_sheets_8
+      rect:
+        serializedVersion: 2
+        x: 10699
+        y: 137
+        width: 435
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9436fa615b65cadd0800000000000000
+      internalID: -2473506759563582647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The_Crawler_walk_sheets_0: -7050001097609926614
+      The_Crawler_walk_sheets_1: -8982118163694338950
+      The_Crawler_walk_sheets_2: -7062700096570627411
+      The_Crawler_walk_sheets_3: 1199658480196510057
+      The_Crawler_walk_sheets_4: -4260871731986923589
+      The_Crawler_walk_sheets_5: -578060341854981739
+      The_Crawler_walk_sheets_6: 4688745675306219717
+      The_Crawler_walk_sheets_7: 1297844117874255030
+      The_Crawler_walk_sheets_8: -2473506759563582647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

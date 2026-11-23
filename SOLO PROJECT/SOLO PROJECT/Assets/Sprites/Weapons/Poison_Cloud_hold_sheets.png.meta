@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 29b4fa857e0f2dc40bb2c451bce24d5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8192032374120963077
+    second: Poison_Cloud_hold_sheets_0
+  - first:
+      213: 7441086585871128693
+    second: Poison_Cloud_hold_sheets_1
+  - first:
+      213: -2673819470568823324
+    second: Poison_Cloud_hold_sheets_2
+  - first:
+      213: -2102191703874861060
+    second: Poison_Cloud_hold_sheets_3
+  - first:
+      213: -2854111909733753225
+    second: Poison_Cloud_hold_sheets_4
+  - first:
+      213: 1650201020204321248
+    second: Poison_Cloud_hold_sheets_5
+  - first:
+      213: 5217985380037144715
+    second: Poison_Cloud_hold_sheets_6
+  - first:
+      213: 1775194949960103188
+    second: Poison_Cloud_hold_sheets_7
+  - first:
+      213: -4535435686596114995
+    second: Poison_Cloud_hold_sheets_8
+  - first:
+      213: 5155428041116889791
+    second: Poison_Cloud_hold_sheets_9
+  - first:
+      213: -3186542184814560404
+    second: Poison_Cloud_hold_sheets_10
+  - first:
+      213: -1936350031069739856
+    second: Poison_Cloud_hold_sheets_11
+  - first:
+      213: -6071920825181210058
+    second: Poison_Cloud_hold_sheets_12
+  - first:
+      213: 6447688464620805125
+    second: Poison_Cloud_hold_sheets_13
+  - first:
+      213: 3542367338518994320
+    second: Poison_Cloud_hold_sheets_14
+  - first:
+      213: 207721548773783818
+    second: Poison_Cloud_hold_sheets_15
+  - first:
+      213: 3591291216103801707
+    second: Poison_Cloud_hold_sheets_16
+  - first:
+      213: 7031175326492719598
+    second: Poison_Cloud_hold_sheets_17
+  - first:
+      213: -5415039133573604752
+    second: Poison_Cloud_hold_sheets_18
+  - first:
+      213: -3666407864441675994
+    second: Poison_Cloud_hold_sheets_19
+  - first:
+      213: -7046065146798930844
+    second: Poison_Cloud_hold_sheets_20
+  - first:
+      213: -1093953204533783195
+    second: Poison_Cloud_hold_sheets_21
+  - first:
+      213: 3867785584487237783
+    second: Poison_Cloud_hold_sheets_22
+  - first:
+      213: 5703564781745861318
+    second: Poison_Cloud_hold_sheets_23
+  - first:
+      213: 2184979183396844864
+    second: Poison_Cloud_hold_sheets_24
+  - first:
+      213: 5553448235047314206
+    second: Poison_Cloud_hold_sheets_25
+  - first:
+      213: 1876473465334376257
+    second: Poison_Cloud_hold_sheets_26
+  - first:
+      213: -919721258767509149
+    second: Poison_Cloud_hold_sheets_27
+  - first:
+      213: -2388820953467470040
+    second: Poison_Cloud_hold_sheets_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cdaff7a02ffa170800000000000000
+      internalID: 8192032374120963077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578d5c543dc044760800000000000000
+      internalID: 7441086585871128693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5e837ab5fa4ead0800000000000000
+      internalID: -2673819470568823324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf704c088c383d2e0800000000000000
+      internalID: -2102191703874861060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_4
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e9b1ff6582468d0800000000000000
+      internalID: -2854111909733753225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_5
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e90441b511b6e610800000000000000
+      internalID: 1650201020204321248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_6
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80bb4c9e020a6840800000000000000
+      internalID: 5217985380037144715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_7
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415707fc662c2a810800000000000000
+      internalID: 1775194949960103188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_8
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc50fc6d545ee01c0800000000000000
+      internalID: -4535435686596114995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_9
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb23cdf1d72cb8740800000000000000
+      internalID: 5155428041116889791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_10
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bb45414c027c3d0800000000000000
+      internalID: -3186542184814560404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison_Cloud_hold_sheets_11
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4854de7e3b025e0800000000000000
+      internalID: -1936350031069739856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 91dbe147690a60f4ea033143d38e0cc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Poison_Cloud_hold_sheets_0: 8192032374120963077
+      Poison_Cloud_hold_sheets_1: 7441086585871128693
+      Poison_Cloud_hold_sheets_10: -3186542184814560404
+      Poison_Cloud_hold_sheets_11: -1936350031069739856
+      Poison_Cloud_hold_sheets_2: -2673819470568823324
+      Poison_Cloud_hold_sheets_3: -2102191703874861060
+      Poison_Cloud_hold_sheets_4: -2854111909733753225
+      Poison_Cloud_hold_sheets_5: 1650201020204321248
+      Poison_Cloud_hold_sheets_6: 5217985380037144715
+      Poison_Cloud_hold_sheets_7: 1775194949960103188
+      Poison_Cloud_hold_sheets_8: -4535435686596114995
+      Poison_Cloud_hold_sheets_9: 5155428041116889791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

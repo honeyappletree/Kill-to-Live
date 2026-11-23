@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 1e7b7794ed42f4f4ea7d1b7d0cc38071
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3756171176360234943
+    second: Maggot Colony_walk_sheets_0
+  - first:
+      213: 8853969420002118972
+    second: Maggot Colony_walk_sheets_1
+  - first:
+      213: -678160466222697217
+    second: Maggot Colony_walk_sheets_2
+  - first:
+      213: -6855683698658319721
+    second: Maggot Colony_walk_sheets_3
+  - first:
+      213: 6978858424468549846
+    second: Maggot Colony_walk_sheets_4
+  - first:
+      213: 62871875578768389
+    second: Maggot Colony_walk_sheets_5
+  - first:
+      213: -3026123399492734574
+    second: Maggot Colony_walk_sheets_6
+  - first:
+      213: -5884533068173271913
+    second: Maggot Colony_walk_sheets_7
+  - first:
+      213: 643165093071367196
+    second: Maggot Colony_walk_sheets_8
+  - first:
+      213: -1417063840770710578
+    second: Maggot Colony_walk_sheets_9
+  - first:
+      213: 5101713794108391344
+    second: Maggot Colony_walk_sheets_10
+  - first:
+      213: 4359192341958705436
+    second: Maggot Colony_walk_sheets_11
+  - first:
+      213: 5208895375962093359
+    second: Maggot Colony_walk_sheets_12
+  - first:
+      213: -1223035539702534807
+    second: Maggot Colony_walk_sheets_13
+  - first:
+      213: 7104573201377710762
+    second: Maggot Colony_walk_sheets_14
+  - first:
+      213: -8176561194439623367
+    second: Maggot Colony_walk_sheets_15
+  - first:
+      213: 1766938892842052130
+    second: Maggot Colony_walk_sheets_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 69
+        width: 826
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140bc7557366fdbc0800000000000000
+      internalID: -3756171176360234943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_1
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 68
+        width: 828
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dc563f64e9fda70800000000000000
+      internalID: 8853969420002118972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_2
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 69
+        width: 831
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4351626a0b696f0800000000000000
+      internalID: -678160466222697217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_3
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 69
+        width: 834
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792e801cff7bbd0a0800000000000000
+      internalID: -6855683698658319721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_4
+      rect:
+        serializedVersion: 2
+        x: 5349
+        y: 68
+        width: 839
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b030f2c2e9d060800000000000000
+      internalID: 6978858424468549846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_5
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 68
+        width: 834
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c2c3243ad5fd000800000000000000
+      internalID: 62871875578768389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_6
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 68
+        width: 829
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291fcbe1dcc0106d0800000000000000
+      internalID: -3026123399492734574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_7
+      rect:
+        serializedVersion: 2
+        x: 9194
+        y: 67
+        width: 824
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c1e722a50f55ea0800000000000000
+      internalID: -5884533068173271913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_8
+      rect:
+        serializedVersion: 2
+        x: 10476
+        y: 67
+        width: 820
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c23789e3bfce800800000000000000
+      internalID: 643165093071367196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_9
+      rect:
+        serializedVersion: 2
+        x: 11755
+        y: 68
+        width: 821
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3afcad1f3955ce0800000000000000
+      internalID: -1417063840770710578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_10
+      rect:
+        serializedVersion: 2
+        x: 13035
+        y: 69
+        width: 823
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7a8b6aadecc640800000000000000
+      internalID: 5101713794108391344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_11
+      rect:
+        serializedVersion: 2
+        x: 14314
+        y: 68
+        width: 824
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c114d0ac656fe7c30800000000000000
+      internalID: 4359192341958705436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_12
+      rect:
+        serializedVersion: 2
+        x: 15593
+        y: 67
+        width: 826
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27356c1fb6b94840800000000000000
+      internalID: 5208895375962093359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_13
+      rect:
+        serializedVersion: 2
+        x: 16874
+        y: 69
+        width: 825
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2a5418a7e60fe0800000000000000
+      internalID: -1223035539702534807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_14
+      rect:
+        serializedVersion: 2
+        x: 18154
+        y: 68
+        width: 825
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d0ec5fa3889260800000000000000
+      internalID: 7104573201377710762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_15
+      rect:
+        serializedVersion: 2
+        x: 19434
+        y: 68
+        width: 826
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dbe293ae4078e80800000000000000
+      internalID: -8176561194439623367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Colony_walk_sheets_16
+      rect:
+        serializedVersion: 2
+        x: 20714
+        y: 69
+        width: 826
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a2ca7bf8d658810800000000000000
+      internalID: 1766938892842052130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maggot Colony_walk_sheets_0: -3756171176360234943
+      Maggot Colony_walk_sheets_1: 8853969420002118972
+      Maggot Colony_walk_sheets_10: 5101713794108391344
+      Maggot Colony_walk_sheets_11: 4359192341958705436
+      Maggot Colony_walk_sheets_12: 5208895375962093359
+      Maggot Colony_walk_sheets_13: -1223035539702534807
+      Maggot Colony_walk_sheets_14: 7104573201377710762
+      Maggot Colony_walk_sheets_15: -8176561194439623367
+      Maggot Colony_walk_sheets_16: 1766938892842052130
+      Maggot Colony_walk_sheets_2: -678160466222697217
+      Maggot Colony_walk_sheets_3: -6855683698658319721
+      Maggot Colony_walk_sheets_4: 6978858424468549846
+      Maggot Colony_walk_sheets_5: 62871875578768389
+      Maggot Colony_walk_sheets_6: -3026123399492734574
+      Maggot Colony_walk_sheets_7: -5884533068173271913
+      Maggot Colony_walk_sheets_8: 643165093071367196
+      Maggot Colony_walk_sheets_9: -1417063840770710578
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

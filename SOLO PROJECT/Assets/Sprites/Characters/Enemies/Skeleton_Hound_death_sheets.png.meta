@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: b6cc3dc52c83a484797f40b53a2e1237
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6164825954972868183
+    second: Skeleton_Hound_death_sheets_0
+  - first:
+      213: 2542916607283190576
+    second: Skeleton_Hound_death_sheets_1
+  - first:
+      213: 2069143938100599980
+    second: Skeleton_Hound_death_sheets_2
+  - first:
+      213: 7483011079876671344
+    second: Skeleton_Hound_death_sheets_3
+  - first:
+      213: -3208177889183954823
+    second: Skeleton_Hound_death_sheets_4
+  - first:
+      213: -7696899123348519905
+    second: Skeleton_Hound_death_sheets_5
+  - first:
+      213: -770894293320847616
+    second: Skeleton_Hound_death_sheets_6
+  - first:
+      213: 2936727257202937138
+    second: Skeleton_Hound_death_sheets_7
+  - first:
+      213: 5935385401220406281
+    second: Skeleton_Hound_death_sheets_8
+  - first:
+      213: 1732153984880406486
+    second: Skeleton_Hound_death_sheets_9
+  - first:
+      213: -5763611840302980720
+    second: Skeleton_Hound_death_sheets_10
+  - first:
+      213: -7830892090440842227
+    second: Skeleton_Hound_death_sheets_11
+  - first:
+      213: 6224075022275412455
+    second: Skeleton_Hound_death_sheets_12
+  - first:
+      213: -683975910396902912
+    second: Skeleton_Hound_death_sheets_13
+  - first:
+      213: 6145920991523009299
+    second: Skeleton_Hound_death_sheets_14
+  - first:
+      213: -6262760613839792419
+    second: Skeleton_Hound_death_sheets_15
+  - first:
+      213: 7918998629247689428
+    second: Skeleton_Hound_death_sheets_16
+  - first:
+      213: -228287077686128562
+    second: Skeleton_Hound_death_sheets_17
+  - first:
+      213: -2211446288607010808
+    second: Skeleton_Hound_death_sheets_18
+  - first:
+      213: -2297307844136961335
+    second: Skeleton_Hound_death_sheets_19
+  - first:
+      213: 2459155030147107674
+    second: Skeleton_Hound_death_sheets_20
+  - first:
+      213: -2597620159383261350
+    second: Skeleton_Hound_death_sheets_21
+  - first:
+      213: 43965910706692639
+    second: Skeleton_Hound_death_sheets_22
+  - first:
+      213: -1148177271932079261
+    second: Skeleton_Hound_death_sheets_23
+  - first:
+      213: -4535946514312599156
+    second: Skeleton_Hound_death_sheets_24
+  - first:
+      213: 6266177846929295379
+    second: Skeleton_Hound_death_sheets_25
+  - first:
+      213: 2876382817523143530
+    second: Skeleton_Hound_death_sheets_26
+  - first:
+      213: -2010875599296345564
+    second: Skeleton_Hound_death_sheets_27
+  - first:
+      213: -8566224166350078745
+    second: Skeleton_Hound_death_sheets_28
+  - first:
+      213: -798836857846355220
+    second: Skeleton_Hound_death_sheets_29
+  - first:
+      213: 6786195862359404356
+    second: Skeleton_Hound_death_sheets_30
+  - first:
+      213: 6021064541630195479
+    second: Skeleton_Hound_death_sheets_31
+  - first:
+      213: -9073923163343113052
+    second: Skeleton_Hound_death_sheets_32
+  - first:
+      213: -4641207874330613367
+    second: Skeleton_Hound_death_sheets_33
+  - first:
+      213: 915467918187560010
+    second: Skeleton_Hound_death_sheets_34
+  - first:
+      213: -6550152196220014148
+    second: Skeleton_Hound_death_sheets_35
+  - first:
+      213: 1825702265227510082
+    second: Skeleton_Hound_death_sheets_36
+  - first:
+      213: 483837663234774799
+    second: Skeleton_Hound_death_sheets_37
+  - first:
+      213: 1268356841555730892
+    second: Skeleton_Hound_death_sheets_38
+  - first:
+      213: -324371571656939097
+    second: Skeleton_Hound_death_sheets_39
+  - first:
+      213: 5849269855301467346
+    second: Skeleton_Hound_death_sheets_40
+  - first:
+      213: 7066839372620286814
+    second: Skeleton_Hound_death_sheets_41
+  - first:
+      213: -5017198335847800742
+    second: Skeleton_Hound_death_sheets_42
+  - first:
+      213: -2817135492468435684
+    second: Skeleton_Hound_death_sheets_43
+  - first:
+      213: -8500971143555851143
+    second: Skeleton_Hound_death_sheets_44
+  - first:
+      213: -8008874964703237645
+    second: Skeleton_Hound_death_sheets_45
+  - first:
+      213: 1764096981866228282
+    second: Skeleton_Hound_death_sheets_46
+  - first:
+      213: -8059247442703907130
+    second: Skeleton_Hound_death_sheets_47
+  - first:
+      213: 426826476640409540
+    second: Skeleton_Hound_death_sheets_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_0
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e144c1b8cdd8550800000000000000
+      internalID: 6164825954972868183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_1
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b5e8e6e214a4320800000000000000
+      internalID: 2542916607283190576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac93abe27317bc10800000000000000
+      internalID: 2069143938100599980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_3
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0777c523eeef8d760800000000000000
+      internalID: 7483011079876671344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_4
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9788dea15334a73d0800000000000000
+      internalID: -3208177889183954823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_5
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14cbc8f60f1f2590800000000000000
+      internalID: -7696899123348519905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_6
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2c3f79bb3d45f0800000000000000
+      internalID: -770894293320847616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Hound_death_sheets_7
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dc9c781e951c820800000000000000
+      internalID: 2936727257202937138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d620fe97e44a30f458cdb61f1c3aa7f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Hound_death_sheets_0: 6164825954972868183
+      Skeleton_Hound_death_sheets_1: 2542916607283190576
+      Skeleton_Hound_death_sheets_2: 2069143938100599980
+      Skeleton_Hound_death_sheets_3: 7483011079876671344
+      Skeleton_Hound_death_sheets_4: -3208177889183954823
+      Skeleton_Hound_death_sheets_5: -7696899123348519905
+      Skeleton_Hound_death_sheets_6: -770894293320847616
+      Skeleton_Hound_death_sheets_7: 2936727257202937138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5f192c80ec598c249aff1f11db8be384
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6173277885913009509
+    second: Maggot Swarmlet_walk_sheets_0
+  - first:
+      213: 4834297000536879769
+    second: Maggot Swarmlet_walk_sheets_1
+  - first:
+      213: -4513500896623198215
+    second: Maggot Swarmlet_walk_sheets_2
+  - first:
+      213: -8356622589722741881
+    second: Maggot Swarmlet_walk_sheets_3
+  - first:
+      213: 519779993955683303
+    second: Maggot Swarmlet_walk_sheets_4
+  - first:
+      213: -3752901125489930145
+    second: Maggot Swarmlet_walk_sheets_5
+  - first:
+      213: 1190620535003522690
+    second: Maggot Swarmlet_walk_sheets_6
+  - first:
+      213: 4558950255221166015
+    second: Maggot Swarmlet_walk_sheets_7
+  - first:
+      213: -3191081900289831740
+    second: Maggot Swarmlet_walk_sheets_8
+  - first:
+      213: -6804929621712576805
+    second: Maggot Swarmlet_walk_sheets_9
+  - first:
+      213: 6504306291302790388
+    second: Maggot Swarmlet_walk_sheets_10
+  - first:
+      213: -557491715620854207
+    second: Maggot Swarmlet_walk_sheets_11
+  - first:
+      213: -4623929688685073373
+    second: Maggot Swarmlet_walk_sheets_12
+  - first:
+      213: 3210671654683139822
+    second: Maggot Swarmlet_walk_sheets_13
+  - first:
+      213: 4198848199499368053
+    second: Maggot Swarmlet_walk_sheets_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 158
+        width: 566
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92716e587c145aa0800000000000000
+      internalID: -6173277885913009509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_1
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 158
+        width: 566
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992bcbf328fd61340800000000000000
+      internalID: 4834297000536879769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_2
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 158
+        width: 568
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fffd5b19d2dc51c0800000000000000
+      internalID: -4513500896623198215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_3
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 157
+        width: 586
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833299a700570c80800000000000000
+      internalID: -8356622589722741881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_4
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 157
+        width: 636
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb451d8621a63700800000000000000
+      internalID: 519779993955683303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_5
+      rect:
+        serializedVersion: 2
+        x: 6689
+        y: 148
+        width: 693
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5052026f440bebc0800000000000000
+      internalID: -3752901125489930145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_6
+      rect:
+        serializedVersion: 2
+        x: 7944
+        y: 139
+        width: 748
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286ab23811fe58010800000000000000
+      internalID: 1190620535003522690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_7
+      rect:
+        serializedVersion: 2
+        x: 9208
+        y: 139
+        width: 783
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf422f4a15a44f30800000000000000
+      internalID: 4558950255221166015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_8
+      rect:
+        serializedVersion: 2
+        x: 10487
+        y: 139
+        width: 785
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cccb043beff6b3d0800000000000000
+      internalID: -3191081900289831740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_9
+      rect:
+        serializedVersion: 2
+        x: 11767
+        y: 139
+        width: 785
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bded94820980091a0800000000000000
+      internalID: -6804929621712576805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_10
+      rect:
+        serializedVersion: 2
+        x: 13047
+        y: 138
+        width: 782
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f0735c10f34a50800000000000000
+      internalID: 6504306291302790388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_11
+      rect:
+        serializedVersion: 2
+        x: 14367
+        y: 146
+        width: 705
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14622350d346348f0800000000000000
+      internalID: -557491715620854207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_12
+      rect:
+        serializedVersion: 2
+        x: 15695
+        y: 156
+        width: 608
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c2b8f527084dfb0800000000000000
+      internalID: -4623929688685073373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_13
+      rect:
+        serializedVersion: 2
+        x: 16993
+        y: 158
+        width: 567
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeddcbebd89e8c20800000000000000
+      internalID: 3210671654683139822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot Swarmlet_walk_sheets_14
+      rect:
+        serializedVersion: 2
+        x: 18275
+        y: 158
+        width: 566
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c2f4e03e454a30800000000000000
+      internalID: 4198848199499368053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maggot Swarmlet_walk_sheets_0: -6173277885913009509
+      Maggot Swarmlet_walk_sheets_1: 4834297000536879769
+      Maggot Swarmlet_walk_sheets_10: 6504306291302790388
+      Maggot Swarmlet_walk_sheets_11: -557491715620854207
+      Maggot Swarmlet_walk_sheets_12: -4623929688685073373
+      Maggot Swarmlet_walk_sheets_13: 3210671654683139822
+      Maggot Swarmlet_walk_sheets_14: 4198848199499368053
+      Maggot Swarmlet_walk_sheets_2: -4513500896623198215
+      Maggot Swarmlet_walk_sheets_3: -8356622589722741881
+      Maggot Swarmlet_walk_sheets_4: 519779993955683303
+      Maggot Swarmlet_walk_sheets_5: -3752901125489930145
+      Maggot Swarmlet_walk_sheets_6: 1190620535003522690
+      Maggot Swarmlet_walk_sheets_7: 4558950255221166015
+      Maggot Swarmlet_walk_sheets_8: -3191081900289831740
+      Maggot Swarmlet_walk_sheets_9: -6804929621712576805
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
